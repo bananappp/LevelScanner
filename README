@@ -1,0 +1,11 @@
+TF2 Level Scanner
+
+Scans servers for items of the level you are looking for and allows you to view the items by user.
+
+To use:
+
+Go onto a server and open up the console. Type in "status" and press enter. Copy the output of that command and paste it in the input text box.
+Type the level you are searching for in the text box labeled "Level" and choose if you want to see weapons and non-wearable items.
+Clicking grab will find all users on the server that have items of that level and put them on the list on the right. Clicking one will show you the items they have of that level.
+
+Happy hunting!
